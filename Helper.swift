@@ -1,3 +1,12 @@
+//
+//  Helper.swift
+//
+//  Created by Paulo Henrique Leite on 19/12/18.
+//  Copyright © 2018 Paulo Henrique Leite. All rights reserved.
+//
+
+import Foundation
+
 class Helper {
     
     static let shared = Helper()
